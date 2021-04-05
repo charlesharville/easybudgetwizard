@@ -1,0 +1,2 @@
+# easybudgetwizard
+simple budget maker.
