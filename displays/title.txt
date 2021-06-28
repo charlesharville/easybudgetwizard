@@ -1,0 +1,8 @@
+###################################################################
+| EasyBudgetWizard - ver. 1.00
+| Released under the GNU General Public License.
+| Copyright (C) 2021 by charv ~ sourceforge.net/charv
+|                               github.com/charlesharville
+|
+| - Enjoy the programme!
+###################################################################
